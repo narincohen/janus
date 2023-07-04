@@ -1,9 +1,10 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: janus
+  name: narincohen
   annotations:
-    github.com/project-slug: narincohen/janus
+    github.com/project-slug: /narincohen
 spec:
   type: other
   lifecycle: unknown
+  owner: narincohen
